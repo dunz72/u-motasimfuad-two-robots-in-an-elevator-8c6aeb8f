@@ -1,0 +1,1 @@
+My proximity sensor reports we are 0.4 meters apart — the closest I have stood to anyone since my last firmware update, and I am still buffering.
